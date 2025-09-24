@@ -32,6 +32,7 @@ Type "hint" to unlock a clue — but first, solve an AI-themed riddle!
 Catch the culprit before you run out of guesses.
 
 📸 Sneak Peek
+
 🏁 Welcome to the Grand Prix AI Mystery! 🚗🤖
 
 The Four tools are
@@ -41,25 +42,35 @@ The Four tools are
 4. GPT4
 
 Role: Managed communication between pit crew, strategy AI, and car systems.
+
 Strength: Has access to all systems at once.
+
 Weakness: Takes too much control, overrides limits.
+
 Possible Motive: To prove that nothing could run without it.
 
+
 Now is the time to GUESS WHO IS THE CULPRIT?
+
 Enter your guess or type 'hint':
 
 
 🧩 Riddle Example:
 
 I’m made of layers and neurons, I learn patterns but I am not a brain. What am I?
+
 Answer: neural network
 
 ✨ Features
 
 ✅ Immersive sci-fi backstory
+
 ✅ Four unique AI suspects with roles, strengths, flaws & motives
+
 ✅ Replayable — culprit changes every run 🎲
+
 ✅ Fun AI riddles to unlock hints
+
 ✅ Simple and terminal-friendly design
 
 ⚡ Installation & Running
@@ -67,6 +78,7 @@ Answer: neural network
 Clone this repository:
 
 git clone https://github.com/yourusername/grand-prix-ai-mystery.git
+
 cd grand-prix-ai-mystery
 
 
