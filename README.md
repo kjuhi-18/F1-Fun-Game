@@ -77,7 +77,7 @@ Answer: neural network
 
 Clone this repository:
 
-git clone https://github.com/yourusername/grand-prix-ai-mystery.git
+git clone https://github.com/kjuhi-18/grand-prix-ai-mystery.git
 
 cd grand-prix-ai-mystery
 
